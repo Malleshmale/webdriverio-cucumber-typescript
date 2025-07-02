@@ -44,6 +44,8 @@ Feature: The internet - Logging in
     Then I am presented with the success message
     And the logout button is visible
     Scenario: User can log in with valid details
+
+    Feature: The internet - Logging in
     
     
     
